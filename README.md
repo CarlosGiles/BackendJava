@@ -1,2 +1,2 @@
-# Backend-Java
+# BackendJava
 Practicas de Java para POO de LaunchX
